@@ -2,7 +2,7 @@
 
 - 🌱 I’m interested in basic apps, utilities, and macros made in javascript, python, autoHotKey, BASH, and Siri Shortcuts
 
-- Check out music and all my other things at phordan.com
+- Check out music and all my other things at [phordan.com](https://phordan.com)
 
 
 <!---
